@@ -82,4 +82,4 @@ especially given the number of tests dieharder runs.
 
 To be even more careful, you can modify nano-vanity's parameters.
 The important ones are `--simple-output`, which makes the output format easily parseable,
-and `-l 0`, which generates infinite keys instead of just one.
+and `-l 0`, which generates infinite keys instead of just one. 
